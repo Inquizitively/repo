@@ -1,0 +1,13 @@
+Package: com.sins.rocketbootstrap
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: Casp <vexelomgg@gmail.com>
+Filename: /com.rpetrich.rocketbootstrap_1.0.6_iphoneos-arm
+Size: 29482
+MD5sum: D28611254D30A7F2BDCE588F33430447
+SHA1: 378B504082331A3BD8E76A9EB1E9F5689D57A291
+SHA256: 604D53895FA15A388FE45D52E596573997A6B01346316177B26F59B4E582B386
+Section: Tweaks
+Description: This is being tested for Sileo installation on the repo owner's main phone.
+Author: Ryan Petrich <rpetrich@gmail.com>
+Name: RocketBootstrap
