@@ -2,8 +2,10 @@ Package: com.sins.rocketbootstrap
 Version: 1.0.7~beta3
 Architecture: iphoneos-arm
 Maintainer: Sins <vexelomgg@gmail.com>
-Filename: /com.rpetrich.rocketbootstrap_1.0.7_beta3_iphoneos-arm.deb
+Filename: /com.rpetrich.rocketbootstrap_1.0.7_beta3_iphoneos-arm
 Size: 37990
+MD5sum: 7c693be81595deb417858ffc5ae8cd10
+SHA1: e0f1b4afbac67e3c8beb39df819997fd0cb54468
 SHA256: 4b7e9c8a0c6d5fc3179e0c5f7fb880239f8c5f30e481979b9d7e4829d58cfb73
 Section: Tweaks
 Description: This is being tested for Sileo installation on the repo owner's main phone.
