@@ -1,23 +1,11 @@
 Package: com.sins.rocketbootstrap
-Version: 1.0.6
+Version: 1.0.7~beta3
 Architecture: iphoneos-arm
 Maintainer: Sins <vexelomgg@gmail.com>
-Filename: /com.rpetrich.rocketbootstrap_1.0.6_iphoneos-arm.deb
-Size: 29482
-SHA256: 604d53895fa15a388fe45d52e596573997a6b01346316177b26f59b4e582b386
+Filename: /com.rpetrich.rocketbootstrap_1.0.7_beta3_iphoneos-arm.deb
+Size: 37990
+SHA256: 4b7e9c8a0c6d5fc3179e0c5f7fb880239f8c5f30e481979b9d7e4829d58cfb73
 Section: Tweaks
 Description: This is being tested for Sileo installation on the repo owner's main phone.
 Author: Ryan Petrich <rpetrich@gmail.com>
 Name: RocketBootstrap
-
-Package: com.sins.anemone
-Version: 2.1.8-2
-Architecture: iphoneos-arm
-Maintainer: Sins <vexelomgg@gmail.com>
-Filename: /anemone_2.1.8-2.deb
-Size: 1857818
-SHA256: ea2200f6e0e93a1d5b7ee53bcbf46e5b6700a7706ecbf71842426df51a8ee6a0
-Section: Tweaks
-Description: This is being tested for Sileo installation on the repo owner's main phone.
-Author: Anemone Team <rpetrich@gmail.com>
-Name: Anemone 3
