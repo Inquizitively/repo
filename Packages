@@ -2,7 +2,7 @@ Package: com.sins.rocketbootstrap
 Version: 1.0.7~beta3
 Architecture: iphoneos-arm
 Maintainer: Sins <vexelomgg@gmail.com>
-Filename: /com.rpetrich.rocketbootstrap_1.0.7_beta3_iphoneos-arm
+Filename: /RocketBootstrap/com.rpetrich.rocketbootstrap_1.0.7_beta3_iphoneos-arm
 Size: 37990
 MD5sum: 7c693be81595deb417858ffc5ae8cd10
 SHA1: e0f1b4afbac67e3c8beb39df819997fd0cb54468
@@ -11,3 +11,17 @@ Section: Tweaks
 Description: This is being tested for Sileo installation on the repo owner's main phone.
 Author: Ryan Petrich <rpetrich@gmail.com>
 Name: RocketBootstrap
+
+Package: com.sins.deamonfixup
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: Sins <vexelomgg@gmail.com>
+Filename: /DaemonFixup/EtasonJB-LaunchDaemon-fixup.deb
+Size: 4168
+MD5sum: 75fd5f872cd6103de228af17722b050e
+SHA1: 6a92c44c903d522008d82a6e03c0e03e5e2d6e32
+SHA256: c2f61cbe8b269bb4243569e8f4cb625305e58afb0a464fec33305edcc0d35dd9
+Section: Tweaks
+Description: This is being tested for Sileo installation on the repo owner's main phone.
+Author: someone <idk@gmail.com>
+Name: Daemon Fixup
